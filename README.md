@@ -30,3 +30,22 @@ I have subtracted the mean from the ratings. No other pre-processing is necessar
 ![](./images/algorithm_output.png)
 
 ## Results
+Single plot of joint likelihood for iterations 2 to 100 for each run.
+
+![](./images/objective.png)
+
+Table of final value of training objective function and RMSE on the testing set sorted by decreasing value of the objective function.
+
+![](./images/rmse.png)
+
+10 closest movies to ”Star Wars” according to Euclidean distance.
+
+![](./images/star_wars.png)
+
+10 closest movies to ”My Fair Lady” according to Euclidean distance.
+
+![](./images/my_fair_lady.png)
+
+10 closest movies to ”Goodfellas” according to Euclidean distance.
+
+![](./images/good_fellas.png)
